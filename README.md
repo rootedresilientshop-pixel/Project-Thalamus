@@ -63,10 +63,10 @@ The Node Nexus is the module sharing and monetization hub. Upload your modules, 
 
 ## Community & Development
 
-- **GitHub**: https://github.com/dreamcraftstudio/thalamus
+- **GitHub**: https://github.com/rootedresilientshop-pixel/Project-Thalamus
 - **itch.io Release**: https://dreamcraftstudio.itch.io/thalamus
-- **Kanon Development**: https://github.com/dreamcraftstudio/kanon-sentry-kernel
-- **BridgeMod Development**: https://github.com/dreamcraftstudio/bridgemod-hardware-bridge
+- **Kanon Development**: https://github.com/rootedresilientshop-shop/kanon-sentry
+- **BridgeMod Development**: https://github.com/rootedreslientshop-pixel/BridgeMod
 
 ## License
 
