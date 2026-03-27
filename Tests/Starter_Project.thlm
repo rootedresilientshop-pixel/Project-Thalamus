@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "metadata": {
+    "name": "Starter Project",
+    "created": "2026-03-25T00:00:00Z"
+  },
+  "nodes": [
+    {
+      "id": "11111111-1111-1111-1111-111111111111",
+      "providerName": "Kanon",
+      "schemaName": "Identity Sentry",
+      "x": 100,
+      "y": 100
+    },
+    {
+      "id": "22222222-2222-2222-2222-222222222222",
+      "providerName": "BridgeMod",
+      "schemaName": "Xorshift32",
+      "x": 500,
+      "y": 100
+    },
+    {
+      "id": "33333333-3333-3333-3333-333333333333",
+      "providerName": "Kanon",
+      "schemaName": "Governance Check",
+      "x": 300,
+      "y": 300
+    }
+  ],
+  "synapses": [
+    {
+      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+      "outputNodeId": "11111111-1111-1111-1111-111111111111",
+      "outputPortName": "IdentityHash",
+      "inputNodeId": "33333333-3333-3333-3333-333333333333",
+      "inputPortName": "Action"
+    },
+    {
+      "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+      "outputNodeId": "22222222-2222-2222-2222-222222222222",
+      "outputPortName": "Value",
+      "inputNodeId": "33333333-3333-3333-3333-333333333333",
+      "inputPortName": "UserLevel"
+    }
+  ]
+}

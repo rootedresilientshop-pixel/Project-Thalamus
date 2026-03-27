@@ -1,0 +1,42 @@
+# Authentication & Secrets
+*.auth
+*.key
+*.pem
+*.pfx
+secrets.json
+.env
+.env.local
+
+# Build Artifacts
+bin/
+obj/
+build/
+dist/
+
+# Sensitive Data Overrides
+Data/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node Dependencies (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Runtime
+*.log
+*.cache
+temp/
+tmp/
+
+# OS
+Thumbs.db
+.DS_Store
+"publish/" 
+"*.exe" 

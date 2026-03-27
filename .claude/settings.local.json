@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet --version)",
+      "Bash(dotnet --list-sdks)",
+      "Bash(dotnet --list-runtimes)",
+      "Bash(dotnet clean:*)",
+      "Bash(tee build.log)",
+      "Bash(ls -la \"d:\\\\Projects\\\\Project Thalamus\\\\Thalamus.UI\\\\TrialPopupWindow.\"*)",
+      "Bash(dotnet publish:*)",
+      "Bash(__NEW_LINE_85c0db6bca0d0ec3__ mkdir:*)",
+      "Bash(cp -r \"d:\\\\Projects\\\\Project Thalamus\" \"d:\\\\Projects\\\\Kanon\\\\Thalamus Sovereign Dist\\\\PRO_BUILD_SOURCE\\\\Thalamus\")",
+      "Bash(__NEW_LINE_bf99d6eec869984e__ cd:*)",
+      "Bash(__NEW_LINE_63ef1a56e308f336__ cd:*)",
+      "Bash(__NEW_LINE_e5d8057202469cd2__ echo:*)",
+      "Bash(__NEW_LINE_fef5b9f10dadfb53__ echo:*)",
+      "Bash(sort echo:*)",
+      "Bash(__NEW_LINE_85b37cbd80ee9983__ echo:*)",
+      "Bash(head -15 echo echo 'README.md - First 2 lines \\(Branding Check\\):' head -2 'd:\\\\Projects\\\\Kanon\\\\Platform Dist\\\\README.md' echo echo 'Cleanliness Check \\(No recovery.json or user data\\):' find 'd:\\\\Projects\\\\Kanon\\\\Platform Dist' -maxdepth 1 \\\\\\(-name recovery.json -o -name .git* -o -name *.local \\\\\\))",
+      "Bash(__NEW_LINE_2b264212299335c1__ echo:*)",
+      "Bash(head -20 echo echo 'README.md - First 2 lines \\(Branding Check\\):' head -2 'd:\\\\Projects\\\\Kanon\\\\Thalamus Sovereign Dist\\\\README.md' echo echo Subdirectories: ls -d d:ProjectsKanonThalamus Sovereign Dist/*/)",
+      "Bash(head -10 echo echo 'Cleanliness Check \\(No recovery.json or user data\\):' find 'd:\\\\Projects\\\\Kanon\\\\Thalamus Sovereign Dist' -maxdepth 1 \\\\\\(-name recovery.json -o -name .git* \\\\\\))",
+      "Bash(__NEW_LINE_2528fcce2977c352__ echo:*)",
+      "Bash(head -15 echo \"\" echo \"README.md - First 2 lines \\(Pro branding\\):\" head -2 \"d:\\\\Projects\\\\Kanon\\\\Thalamus Sovereign Dist\\\\PRO\\\\README.md\" echo \"\" echo \"File Count in PRO folder:\" find \"d:\\\\Projects\\\\Kanon\\\\Thalamus Sovereign Dist\\\\PRO\" -maxdepth 1 -type f)",
+      "Bash(__NEW_LINE_e09e0609c6845b91__ echo:*)",
+      "Bash(cp -r app/* .)",
+      "Bash(rm -rf app)",
+      "Bash(ls -la d:/Dist/Thalamus_v1.0.0_GOLD/Thalamus.UI.*)",
+      "Bash(ls -la c:/Users/gardn/Downloads/Test_Thalamus_Full_Sovereign/Thalamus.UI.*)"
+    ]
+  }
+}

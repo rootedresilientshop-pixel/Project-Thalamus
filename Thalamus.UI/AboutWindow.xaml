@@ -1,0 +1,72 @@
+<Window x:Class="Thalamus.UI.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About Thalamus" Height="300" Width="420"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Background="#1E1E2E"
+        Foreground="#CCCCFF"
+        BorderBrush="#333355"
+        BorderThickness="1">
+
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+        <!-- DreamCraft heading -->
+        <TextBlock Text="DREAMCRAFT"
+                   Foreground="#9999CC"
+                   FontSize="9"
+                   FontWeight="Bold"
+                   TextAlignment="Center"
+                   Margin="0,0,0,12"/>
+
+        <!-- Thalamus title -->
+        <TextBlock Text="Thalamus"
+                   Foreground="#CCCCFF"
+                   FontSize="40"
+                   FontWeight="Bold"
+                   TextAlignment="Center"
+                   Margin="0,0,0,0"/>
+
+        <!-- Tagline -->
+        <TextBlock Text="Visual Logic Engine"
+                   Foreground="#555577"
+                   FontSize="13"
+                   TextAlignment="Center"
+                   Margin="0,2,0,12"/>
+
+        <!-- Separator -->
+        <Border Height="1" Background="#333355" Margin="0,0,0,12"/>
+
+        <!-- Version -->
+        <TextBlock x:Name="VersionText"
+                   Text="Version 1.0.0"
+                   Foreground="#CCCCFF"
+                   FontSize="11"
+                   TextAlignment="Center"
+                   Margin="0,0,0,4"/>
+
+        <!-- Copyright -->
+        <TextBlock Text="© DreamCraft Studios"
+                   Foreground="#555577"
+                   FontSize="10"
+                   TextAlignment="Center"
+                   Margin="0,0,0,12"/>
+
+        <!-- Close button -->
+        <Button x:Name="CloseButton"
+                Content="Close"
+                Width="80"
+                Height="32"
+                Margin="0,8,0,0"
+                HorizontalAlignment="Center"
+                Background="#2A2A3E"
+                Foreground="#CCCCFF"
+                BorderBrush="#555577"
+                BorderThickness="1"
+                Cursor="Hand"
+                Click="CloseButton_Click"/>
+
+    </StackPanel>
+
+</Window>

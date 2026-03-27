@@ -1,0 +1,54 @@
+<Window x:Class="Thalamus.UI.TrialPopupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Thalamus — Trial Edition"
+        Height="280" Width="480"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Background="#1E1E2E"
+        Foreground="#CCCCFF"
+        BorderBrush="#9999CC"
+        BorderThickness="1">
+
+    <StackPanel Margin="24,20,24,20" VerticalAlignment="Center">
+
+        <!-- Icon + Title -->
+        <TextBlock Text="DREAMCRAFT  ·  TRIAL EDITION"
+                   Foreground="#9999CC" FontSize="9" FontWeight="Bold"
+                   TextAlignment="Center" Margin="0,0,0,10"/>
+
+        <!-- Divider -->
+        <Border Height="1" Background="#333355" Margin="0,0,0,16"/>
+
+        <!-- Message -->
+        <TextBlock TextWrapping="Wrap" TextAlignment="Center"
+                   FontSize="11" LineHeight="18" Foreground="#CCCCFF"
+                   Margin="0,0,0,20">
+            This logic is getting serious. You've reached the
+            <Run FontWeight="Bold" Foreground="#9999CC">10-node trial limit.</Run>
+            To expand this project and support independent, SaaS-free development,
+            please consider the
+            <Run FontWeight="Bold" Foreground="#00E5FF">Pro License.</Run>
+        </TextBlock>
+
+        <!-- Buttons -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="ProButton"
+                    Content="Get Pro License"
+                    Width="140" Height="34" Margin="0,0,12,0"
+                    Background="#2A2A4E" Foreground="#9999CC"
+                    BorderBrush="#9999CC" BorderThickness="1"
+                    FontWeight="SemiBold" FontSize="11"
+                    Cursor="Hand" Click="ProButton_Click"/>
+            <Button x:Name="TinkerButton"
+                    Content="Keep Tinkering"
+                    Width="120" Height="34"
+                    Background="#1A1A2E" Foreground="#666688"
+                    BorderBrush="#444466" BorderThickness="1"
+                    FontSize="11"
+                    Cursor="Hand" Click="TinkerButton_Click"/>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

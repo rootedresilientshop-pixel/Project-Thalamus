@@ -1,0 +1,144 @@
+SOVEREIGN USER LICENSE (SUL) v1.0
+================================================================================
+Thalamus: The Sovereign Node Engine
+Copyright (c) 2026 DreamCraft Studio
+
+PREAMBLE
+================================================================================
+
+This is the Sovereign User License. It exists to protect three things:
+
+1. Your ownership of your work (.thlm files)
+2. The creator's ownership of their modules
+3. The integrity of the ecosystem
+
+You are not renting Thalamus. You are not leasing features. You own a license to
+use the Thalamus Core Engine, forever, on every machine you own or operate.
+
+================================================================================
+THE SOVEREIGN CLAUSE
+================================================================================
+
+You maintain 100% ownership of all .thlm files created in or exported from
+Thalamus. This includes:
+
+- Workflows you design
+- Modules you create
+- Configurations you build
+- Data you process
+- Any derivative works you export
+
+No portion of the Thalamus platform, its developers, or associated entities
+claims ownership, royalty, or licensing rights over your .thlm files.
+
+You are free to:
+- Use .thlm files on any system
+- Modify and redistribute your .thlm files
+- Export and use your .thlm files in other platforms
+- Sell .thlm files commercially (where applicable)
+- Keep .thlm files private or share them freely
+
+================================================================================
+THE MODULE CLAUSE
+================================================================================
+
+THALAMUS CORE ENGINE
+- License Type: Free / Pay-What-You-Want
+- Redistribution: Permitted (unmodified binaries only)
+- Commercial Use: Permitted
+- Source Code: Available at https://github.com/dreamcraftstudio/thalamus
+- Modification: Permitted for personal use; commercial modifications require
+  written permission from DreamCraft Studio.
+
+KANON SENTRY KERNEL
+- License Type: Proprietary / Restricted
+- Redistribution: Prohibited without written permission
+- Commercial Use: By license agreement only
+- Source Code: Available to licensees only
+- This module adds sovereign governance and cryptographic audit logging.
+- Contact DreamCraft Studio for licensing inquiries.
+
+BRIDGEMOD HARDWARE BRIDGE
+- License Type: Proprietary / Restricted
+- Redistribution: Prohibited without written permission
+- Commercial Use: By license agreement only
+- Source Code: Available to licensees only
+- This module adds hardware orchestration (Raspberry Pi, Arduino, IoT).
+- Contact DreamCraft Studio for licensing inquiries.
+
+COMMUNITY MODULES (via Node Nexus Marketplace)
+- Creator-Owned: Module creators retain all intellectual property rights
+- License Terms: As specified by each module creator
+- Thalamus Platform: Not responsible for third-party module licenses
+- Your Rights: Subject to each module's own license agreement
+
+================================================================================
+TERMS OF USE
+================================================================================
+
+1. GRANT OF LICENSE
+   You are granted a non-exclusive, perpetual, worldwide, royalty-free license
+   to use Thalamus Core Engine on any device you own or operate.
+
+2. RESTRICTIONS
+   You may not:
+   - Reverse engineer or attempt to derive the source code of proprietary modules
+   - Remove or obscure any copyright or license notices
+   - Use Thalamus to violate laws or regulations in your jurisdiction
+   - Claim that your derivative works are original Thalamus offerings
+
+3. YOUR MODULES & MARKETPLACE
+   If you publish modules to Node Nexus Marketplace:
+   - You retain all ownership of your module
+   - You set the price or distribution terms
+   - DreamCraft Studio takes no platform fee (100% to creators)
+   - You agree your module is free from malware and respects others' rights
+
+4. NO WARRANTY
+   Thalamus Core is provided "AS-IS" without warranty of any kind, express or
+   implied. DreamCraft Studio is not liable for data loss, hardware damage, or
+   any indirect damages resulting from use of Thalamus.
+
+5. LIMITATION OF LIABILITY
+   In no event shall DreamCraft Studio be liable for:
+   - Loss of .thlm files or workflows
+   - Interruption of service
+   - Third-party module failures or incompatibilities
+   - Any damages over $100 USD
+
+6. TERMINATION
+   This license is perpetual. It cannot be revoked. If you violate these terms,
+   you may lose access to Node Nexus Marketplace, but your right to use Thalamus
+   Core remains intact, and your .thlm files remain your property.
+
+7. GOVERNING LAW
+   This license is governed by the laws of the jurisdiction where DreamCraft
+   Studio is incorporated.
+
+================================================================================
+WHAT THIS MEANS FOR YOU
+================================================================================
+
+✓ You own Thalamus (on your machine)
+✓ You own everything you create in Thalamus
+✓ You can use Thalamus forever, even if DreamCraft Studio ceases operations
+✓ You can export your work and use it elsewhere
+✓ You can build and sell modules on Node Nexus
+✓ You can modify Thalamus Core for personal use
+✓ You can use Thalamus commercially
+
+✗ You cannot claim to be DreamCraft Studio
+✗ You cannot reverse-engineer proprietary modules
+✗ You cannot redistribute proprietary modules without permission
+✗ You cannot modify and redistribute modified core binaries commercially
+        without permission
+
+================================================================================
+
+For questions about this license, contact: license@dreamcraftstudio.dev
+
+---
+
+Thalamus v1.0.0-GOLD | Sovereign User License v1.0
+Released: March 27, 2026
+Maintained by DreamCraft Studio

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Thalamus.Nucleus.BridgeMod</RootNamespace>
+    <AssemblyName>Thalamus.Nucleus.BridgeMod</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Thalamus.Core\Thalamus.Core.csproj" />
+  </ItemGroup>
+</Project>

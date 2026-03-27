@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Thalamus.UI/1.0.0": {
+        "dependencies": {
+          "Thalamus.Core": "1.0.0",
+          "Thalamus.Nucleus.BridgeMod": "1.0.0",
+          "Thalamus.Nucleus.Kanon": "1.0.0"
+        },
+        "runtime": {
+          "Thalamus.UI.dll": {}
+        }
+      },
+      "Thalamus.Core/1.0.0": {
+        "runtime": {
+          "Thalamus.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Thalamus.Nucleus.BridgeMod/1.0.0": {
+        "dependencies": {
+          "Thalamus.Core": "1.0.0"
+        },
+        "runtime": {
+          "Thalamus.Nucleus.BridgeMod.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Thalamus.Nucleus.Kanon/1.0.0": {
+        "dependencies": {
+          "Thalamus.Core": "1.0.0"
+        },
+        "runtime": {
+          "Thalamus.Nucleus.Kanon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thalamus.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thalamus.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thalamus.Nucleus.BridgeMod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thalamus.Nucleus.Kanon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

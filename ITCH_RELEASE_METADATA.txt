@@ -1,0 +1,228 @@
+================================================================================
+ITCH.IO RELEASE METADATA
+Thalamus v1.0.0-GOLD
+================================================================================
+
+GAME PAGE TITLE
+================================================================================
+Thalamus: The Sovereign Node Engine
+
+TAGLINE (Short Description)
+================================================================================
+Your Logic. Your Hardware. No Subscriptions.
+
+GAME CLASSIFICATION
+================================================================================
+Category: Tool / Utility
+Tags: node-editor, logic-engine, local-first, sovereign, open-source
+
+COVER IMAGE DESCRIPTION (for alt text)
+================================================================================
+Hexagonal logo with "Thalamus: The Sovereign Node Engine" text. Minimalist
+dark theme with electric cyan/white accents.
+
+================================================================================
+DETAILED DESCRIPTION (For itch.io Game Page)
+================================================================================
+
+THALAMUS: THE SOVEREIGN NODE ENGINE
+
+Reclaim your logic from the cloud. Thalamus is a 100% local-first, sovereign
+node engine—built for creators, developers, and organizations that refuse to
+trade ownership for convenience.
+
+What is Thalamus?
+
+A complete visual logic platform that runs entirely on your machine. Design
+workflows. Build modules. Create proprietary solutions. Everything stays local.
+Everything stays yours.
+
+Core Features:
+• 100% local-first architecture—no cloud, no subscriptions
+• Visual node-based logic editor with infinite flexibility
+• Complete data ownership—your .thlm files are exclusively yours
+• Module ecosystem for extending and sharing your work
+• Hardware-ready infrastructure for IoT and embedded systems
+• Pay-what-you-want core with optional premium governance and hardware modules
+
+The SaaS-Killer Vision
+
+For decades, software platforms have held your logic hostage in the cloud.
+Thalamus breaks that cycle. Build once. Own forever. Share or keep private.
+The choice is yours.
+
+What's Included (v1.0.0-GOLD):
+
+✓ Thalamus Core Engine (100% local execution)
+✓ Visual Logic Editor with preset node library
+✓ Node Nexus module sidebar for browsing and publishing modules
+✓ 5 Seed Templates to jumpstart your workflows:
+  1. Data Pipeline Template
+  2. Logic Orchestrator Template
+  3. Hardware Bridge Gateway Template (Kanon-ready)
+  4. Security Audit Framework Template
+  5. Module Template Scaffold
+✓ Complete documentation and quickstart guide
+✓ Community forum access and GitHub repository
+
+Designed to Integrate With:
+
+The upcoming Kanon Sentry Kernel (sovereign governance and cryptographic
+audit logging) and BridgeMod Hardware Bridge (Raspberry Pi / Arduino
+orchestration) are in active development.
+
+These modules integrate seamlessly with Thalamus Core—extend your engine
+with institutional-grade security and hardware control without ever touching
+a cloud API.
+
+Your Ownership, Guaranteed:
+
+Every workflow, module, and configuration you create in Thalamus is saved
+as a .thlm file—yours to keep, export, and use forever. No vendor lock-in.
+No subscriptions. No data harvest.
+
+Community & Development:
+
+• GitHub: https://github.com/dreamcraftstudio/thalamus
+• Kanon Development: https://github.com/dreamcraftstudio/kanon-sentry-kernel
+• BridgeMod Development: https://github.com/dreamcraftstudio/bridgemod-hardware-bridge
+• License: Sovereign User License (free core, optional premium modules)
+
+Installation:
+
+1. Download ZIP
+2. Extract
+3. Run Thalamus.UI.exe
+4. Start building
+
+No account. No sign-up. No internet required (after initial download).
+
+---
+
+Built by DreamCraft Studio | v1.0.0-GOLD Released: March 27, 2026
+The sovereign future of software starts here.
+
+================================================================================
+ITCH.IO CATEGORY & CONTENT RATING
+================================================================================
+
+Intended Audience:
+- Software developers and engineers
+- Data professionals and analysts
+- Hardware enthusiasts and makers
+- Organizations seeking local-first solutions
+- Students and educators
+
+Content Rating: Everyone
+
+Upload Type: Software (Tool/Utility)
+
+Monetization:
+[X] Pay What You Want (optional donation)
+[ ] Premium license available (contact for inquiries)
+
+================================================================================
+RELEASE NOTES FOR v1.0.0-GOLD
+================================================================================
+
+Thalamus v1.0.0-GOLD | Node Nexus is Open
+
+🎉 RELEASE HIGHLIGHTS:
+
+✨ Core Engine
+- Stable visual node editor with 50+ preset nodes
+- Full local-first architecture verified
+- Complete .thlm file serialization and import/export
+- Performance optimized for 4GB RAM baseline
+
+✨ Node Nexus Module System
+- Live module sidebar with browsing and installation
+- Seed template library (5 templates included)
+- Creator monetization framework (100% to creators)
+- Community marketplace infrastructure ready
+
+✨ Documentation Suite
+- Complete quickstart guide
+- Module development guide
+- Sovereign User License
+- API reference and node documentation
+
+✨ Seed Templates (Ready to Load)
+1. Data Pipeline - CSV to JSON transformation workflow
+2. Logic Orchestrator - Multi-stage workflow execution
+3. Hardware Bridge Gateway - Preparation for upcoming BridgeMod integration
+4. Security Audit Framework - Local governance tracking (Kanon-ready)
+5. Module Template Scaffold - Starter template for custom modules
+
+🔮 WHAT'S COMING NEXT:
+
+The development of two sovereign modules is underway:
+
+📦 Kanon Sentry Kernel
+- Cryptographic audit logging
+- Permission management framework
+- Transparent local governance
+- Integration with Thalamus Core
+→ Development tracking: https://github.com/dreamcraftstudio/kanon-sentry-kernel
+
+⚙️ BridgeMod Hardware Bridge
+- Raspberry Pi orchestration
+- Arduino bridging
+- IoT sensor integration
+- Local hardware abstraction layer
+→ Development tracking: https://github.com/dreamcraftstudio/bridgemod-hardware-bridge
+
+The hardware-bridge era is almost here. Watch the GitHub repos for updates.
+
+================================================================================
+KEYWORDS & SEO
+================================================================================
+
+Primary Keywords:
+- node engine
+- logic editor
+- local-first software
+- sovereign computing
+- workflow automation
+- open-source tool
+- visual programming
+
+Secondary Keywords:
+- no subscriptions
+- 100% ownership
+- IoT automation
+- visual node editor
+- system design
+- automation platform
+- creator economy
+
+================================================================================
+SOCIAL MEDIA COPY
+================================================================================
+
+Twitter/X (280 chars):
+Thalamus v1.0.0-GOLD is live. Your logic. Your hardware. No subscriptions.
+100% local-first sovereign node engine with 5 seed templates and a creator
+economy. Download now. https://dreamcraftstudio.itch.io/thalamus
+
+Discord Announcement:
+🎉 THALAMUS v1.0.0-GOLD IS LIVE!
+
+The sovereign node engine is here. Download from itch.io and reclaim your logic.
+
+✓ 100% local-first architecture
+✓ 5 seed templates included
+✓ Module marketplace (100% to creators)
+✓ Designed for Kanon & BridgeMod integration
+
+Kanon Sentry Kernel and BridgeMod Hardware Bridge are in development. Watch
+the GitHub repos for updates.
+
+→ Download: https://dreamcraftstudio.itch.io/thalamus
+→ Source: https://github.com/dreamcraftstudio/thalamus
+
+The hardware-bridge era starts now.
+
+================================================================================
+END ITCH.IO METADATA
+================================================================================

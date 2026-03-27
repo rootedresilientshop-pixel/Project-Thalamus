@@ -1,0 +1,23 @@
+// Thalamus Live Sync Listener — paste into Unity/Godot C# project (net8 / Standard 2.1+)
+// Receives JSON from Thalamus on UDP port 9000. Enable "Live Sync" in Thalamus header.
+using System.Collections.Generic;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using System.Text.Json;
+using UnityEngine;  // remove for Godot; use GD.Print instead of Debug.Log
+
+public class ThalamusListener : MonoBehaviour
+{
+    UdpClient _udp = new UdpClient(9000);
+    void Update()
+    {
+        if (_udp.Available == 0) return;
+        var ep   = new IPEndPoint(IPAddress.Any, 0);
+        var data = Encoding.UTF8.GetString(_udp.Receive(ref ep));
+        var vals = JsonSerializer.Deserialize<Dictionary<string, string>>(data);
+        // Example: GetComponent<Rigidbody>().mass = float.Parse(vals["WeightClamping.Clamped"]);
+        foreach (var kv in vals) Debug.Log($"[Thalamus] {kv.Key} = {kv.Value}");
+    }
+    void OnDestroy() => _udp?.Dispose();
+}
